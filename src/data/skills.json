@@ -1,0 +1,31 @@
+[
+  {
+    "kategori": "Web Development",
+    "list": [
+      "React.js",
+      "Next.js",
+      "Laravel",
+      "Node.js",
+      "Inertia.js",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "kategori": "Mobile Development",
+    "list": ["Flutter", "Dart"]
+  },
+  {
+    "kategori": "Networking & SysAdmin",
+    "list": [
+      "Linux (Ubuntu/Debian)",
+      "Network Automation",
+      "GNS3",
+      "Docker",
+      "BIND9 DNS"
+    ]
+  },
+  {
+    "kategori": "Databases & Tools",
+    "list": ["MySQL", "MongoDB", "Firebase", "Git / GitHub"]
+  }
+]
